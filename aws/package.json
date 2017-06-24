@@ -1,0 +1,13 @@
+{
+  "name": "hello-serverless-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "async": "^2.4.1",
+    "aws-sdk": "^2.74.0",
+    "bluebird": "^3.5.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
